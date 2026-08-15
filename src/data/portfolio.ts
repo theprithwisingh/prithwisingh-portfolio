@@ -173,6 +173,7 @@ export const projects: Project[] = [
     live: "https://example.com",
     featured: true,
   },
+
   {
     name: "SyncBoard",
     description:
@@ -182,6 +183,7 @@ export const projects: Project[] = [
     live: "https://example.com",
     featured: true,
   },
+
   {
     name: "Forge CLI",
     description:
@@ -190,6 +192,7 @@ export const projects: Project[] = [
     github: "https://github.com",
     featured: true,
   },
+
   {
     name: "AgentKit",
     description:
@@ -198,6 +201,7 @@ export const projects: Project[] = [
     github: "https://github.com",
     featured: false,
   },
+
   {
     name: "Vaultkey",
     description:
@@ -206,6 +210,7 @@ export const projects: Project[] = [
     github: "https://github.com",
     featured: false,
   },
+
   {
     name: "Pulse Analytics",
     description:
@@ -215,6 +220,7 @@ export const projects: Project[] = [
     live: "https://example.com",
     featured: false,
   },
+
 ];
 
 export const achievements: Achievement[] = [
@@ -240,7 +246,7 @@ export const achievements: Achievement[] = [
 export const education: Education[] = [
   {
     institution: "University of Mumbai",
-    degree: "B.E. Electrical & Computer Science",
+    degree: "B.E. Electrical & Software Engineering",
     startYear: "2021",
     endYear: "2025",
     logoInitial: "MU",
